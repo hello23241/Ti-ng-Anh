@@ -9,3 +9,15 @@ cash: tiền mặt
 bottle: chai -> bottle of water: chai nước
 contain = tích trữ
 store: cửa hàng, đồ tích trữ
+customer: khách hàng
+cough syrup: siro ho
+buns: bánh mì nhỏ
+sandwich: bánh mì kẹp
+medicine: thuốc
+clue: gợi ý
+magazine: tạp chí
+editorial office: văn phòng biên tập
+sweets: kẹo
+antispectics cream: kem kháng khuẩn
+stamp: tem
+
