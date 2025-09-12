@@ -20,4 +20,14 @@ editorial office: văn phòng biên tập
 sweets: kẹo
 antispectics cream: kem kháng khuẩn
 stamp: tem
+experienced: giàu kinh nghiệm
+experience: kinh nghiệm
+Comfortable: dễ chịu
+comfort: sự dễ chịu
+provide: cung cấp
+mattress: tấm bạt/nệm
+borrow: đi mượn/cho mượn
+kind: tử tế/(phân) loại
+send: gửi
+nguyên âm ueoai
 
