@@ -30,4 +30,4 @@ borrow: đi mượn/cho mượn
 kind: tử tế/(phân) loại
 send: gửi
 nguyên âm ueoai
-
+should: nên
