@@ -29,5 +29,15 @@ mattress: tấm bạt/nệm
 borrow: đi mượn/cho mượn
 kind: tử tế/(phân) loại
 send: gửi
+
 nguyên âm ueoai
+
 should: nên
+hammer: cây búa
+ill: bị bệnh
+toolbox: hộp dụng cụ
+scissors: kéo
+Paul thinks Bob spoke clearly
+package: gói hàng
+pack: gói
+
